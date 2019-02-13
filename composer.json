@@ -1,0 +1,16 @@
+{
+    "name": "dongshufeng/composer_todo",
+    "description": "composer todo",
+    "authors": [
+        {
+            "name": "shufeng",
+            "email": "839117348@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+		"psr-4":{
+		   "Dshufeng\\composer_todo\\" :"src/Dshufeng/composer_todo"
+		}
+    }
+}
